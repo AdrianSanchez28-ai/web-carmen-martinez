@@ -1,0 +1,19 @@
+[
+  { "id": "hero",    "query": "hair salon interior",              "aspect": "wide",   "size": "large" },
+  { "id": "salon-1", "query": "hairdresser salon chair mirror",   "aspect": "tall",   "size": "large" },
+  { "id": "salon-2", "query": "manicure hands nail polish",       "aspect": "tall",   "size": "large" },
+  { "id": "salon-3", "query": "beauty salon interior",            "aspect": "tall",   "size": "large" },
+  { "id": "promo",   "query": "nail polish bottles colorful",     "aspect": "wide",   "size": "large" },
+  { "id": "gal-01",  "query": "manicure nails",                   "aspect": "square", "size": "medium" },
+  { "id": "gal-02",  "query": "hairdresser cutting hair scissors","aspect": "square", "size": "medium" },
+  { "id": "gal-03",  "query": "nail polish bottles",              "aspect": "square", "size": "medium" },
+  { "id": "gal-04",  "query": "hair dryer salon blowout",         "aspect": "square", "size": "medium" },
+  { "id": "gal-05",  "query": "nail art design",                  "aspect": "square", "size": "medium" },
+  { "id": "gal-06",  "query": "hair coloring dye salon",          "aspect": "square", "size": "medium" },
+  { "id": "gal-07",  "query": "scissors comb hairdressing tools", "aspect": "square", "size": "medium" },
+  { "id": "gal-08",  "query": "pedicure feet spa",                "aspect": "square", "size": "medium" },
+  { "id": "gal-09",  "query": "blonde highlights hair woman",     "aspect": "square", "size": "medium" },
+  { "id": "gal-10",  "query": "hairbrush comb hair salon",        "aspect": "square", "size": "medium" },
+  { "id": "gal-11",  "query": "gel nails manicure salon",         "aspect": "square", "size": "medium" },
+  { "id": "gal-12",  "query": "braid hairstyle updo",             "aspect": "square", "size": "medium" }
+]
